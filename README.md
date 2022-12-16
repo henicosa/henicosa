@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @henicosa
-- 👀 I’m interested in Natural Language Processing, Fermentation and Data Science.
+- 👀 I’m interested in Natural Language Processing, Fermentation and Knowledge Bases.
 - 🌱 I’m currently learning Computer Science for Digital Media @ Bauhaus-University.
-- 💞️ I’m looking to collaborate on open dource projects that contribute to a common good.
+- 💞️ I’m looking to collaborate on open source projects that contribute to a common good.
 - 📫 How to reach me: Message me on mastodon at @viji5369@social.bau-ha.us
 
 <!---
